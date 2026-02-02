@@ -15,11 +15,11 @@ Motivated by problem-solving, clean architecture, and continuous learning.
 
 | Project | Description |
 |--------|------------|
-| **Tetris** | Classic Tetris implementation with modern features |
-| **Chess** | Full-featured chess game with complete rule enforcement |
-| **PacMan** | Classic Pac-Man implementation |
-| **Online-Multiplayer-RPG-Platform** | Multiplayer strategy game with real-time combat system |
-| **AVR Microcontroller Robot** | Autonomous robot with sensor integration |
+| **[Online-Multiplayer-RPG-Platform](https://github.com/adrafk3/Online-Multiplayer-RPG-Platform)** | Multiplayer strategy game with real-time combat system |
+| **[AVR Microcontroller Robot](https://github.com/adrafk3/AVR-Microcontroller-Robot)** | Autonomous robot with sensor integration |
+| **[Chess](https://github.com/adrafk3/Chess)** | Full-featured chess game with AI opponent |
+| **[Tetris](https://github.com/adrafk3/Tetris)** | Classic Tetris implementation with modern features |
+| **[PacMan](https://github.com/adrafk3/PacMan)** | Classic Pac-Man implementation |
 
 ---
 
