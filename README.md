@@ -24,5 +24,5 @@ Motivated by problem-solving, clean architecture, and continuous learning.
 ---
 
 ## Contact
-- 📧 Email: ton.email@email.com
-- 💼 LinkedIn: https://linkedin.com/in/ton-profil
+- 📧 Email: adamraf3@email.com
+- 💼 LinkedIn: https://www.linkedin.com/in/adam-raf-7a8647353/
